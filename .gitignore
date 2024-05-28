@@ -36,3 +36,4 @@ build/
 # asdf version file
 .tool-versions
 
+.history
